@@ -7,3 +7,4 @@ hello!git!
 hello!git!
 hello!git!
 this is a remote write!
+this is a write by clonefile
