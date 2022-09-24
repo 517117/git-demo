@@ -1,9 +1,4 @@
 hello!git!
-this is modified file!
-
-
-this is a branch modified
-hello!git!
 hello!git!
 hello!git!
 hello!git!   
